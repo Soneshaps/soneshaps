@@ -1,6 +1,6 @@
 ### Yo! 👋
 
-<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" /> 
+<img src="https://github.com/Soneshaps/soneshaps/blob/main/dino.gif" /> 
 
 <table>
   <tr>
