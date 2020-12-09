@@ -1,6 +1,6 @@
-### Hi there 👋
+### Yo! 👋
 
-<img src="https://github.githubassets.com/images/mona-whisper.gif" /> 
+<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" /> 
 
 <table>
   <tr>
